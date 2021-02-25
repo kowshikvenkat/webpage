@@ -1,0 +1,68 @@
+#nav{
+background-color: rgb(7, 7, 99);
+height: 100px;
+align-content: middle;
+font-size: 25px;
+font-weight: bold;
+font-style: inherit;
+}
+
+#nav select{
+display: inline;
+padding:0px;
+height: 40px;
+color: black;
+}
+a{
+text-decoration: none;
+font-weight: lighter;
+color: yellow;
+}
+a:hover{
+color:pink;
+}
+img{
+padding-left: 500px;
+padding-right: 20px;
+align-items: center;
+
+}
+h3{
+padding-right: 100px;
+background-color: rgb(147, 147, 241);
+color: whitesmoke;
+border-style: dashed;
+border-color: whitesmoke;
+}
+#theform{
+font-family:Impact;
+font-size: x-large;
+font-weight: lighter;
+color:black;
+display:table;
+background-color: rgba(195, 204, 230, 0.979);
+border:dashed 2px black;
+padding:15px;
+}
+.row{
+display:table-row;
+
+}
+.row label{    
+display:table cell;
+padding:40px;
+text-align: center;
+}
+.row input{
+display:table-cell;
+padding:10px;    
+}
+h4{
+text-decoration: underline;
+}
+h5{
+font-size: large;
+background-color: rgb(58, 55, 55);
+color:whitesmoke;
+}
+
